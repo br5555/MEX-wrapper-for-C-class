@@ -1,4 +1,4 @@
-# MEX-wrapper-for-C++-class
+# MEX-wrapper-for-C_plus_plus_class
 
 
 Project contains brief example of using mex wrapper for c++ class.
@@ -20,7 +20,7 @@ Matlab
 Change directory to 
 
 ```
-C___class_interface
+MEX-wrapper-for-C_plus_plus_class
 ```
 
 and in matlab terminal run
@@ -45,7 +45,7 @@ run_example
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/br5555/MEX-wrapper-for-C-class/releases/tag/1.0.0). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/br5555/MEX-wrapper-for-C_plus_plus_class/releases/tag/v1.0.0). 
 
 ## Authors
 
