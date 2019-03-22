@@ -45,7 +45,7 @@ run_example
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/MEX-wrapper-for-C-class/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/br5555/MEX-wrapper-for-C-class/releases/tag). 
 
 ## Authors
 
