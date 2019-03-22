@@ -16,8 +16,9 @@ Matlab
 
 ### Installing
 
-<pre>
+
 Change directory to 
+
 ```
 C___class_interface
 ```
@@ -29,10 +30,11 @@ mex -I./   example_mex.cpp
 ```
 
 Run the example script typing in matlba termianl:
+
 ```matlab
 run_example
 ```
-</pre>
+
 
 
 ## Built With
