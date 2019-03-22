@@ -1,1 +1,3 @@
-# MEX-wrapper-for-C-class
+'''ruby
+function()
+'''
